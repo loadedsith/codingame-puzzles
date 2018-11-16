@@ -1,1 +1,3 @@
 # codingame-puzzles
+
+A collaborative.
