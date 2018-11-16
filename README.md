@@ -1,3 +1,3 @@
 # codingame-puzzles
 
-A collaborative.
+A collaborative effort.
